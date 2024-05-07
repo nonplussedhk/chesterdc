@@ -7,6 +7,6 @@ We collect stories about Chester, PA by residents of Chester, PA
 - 1. We are amazing
   2. You are amazing
      
-Find out who we are! Check out [About Us] (aboutus)!
+Find out who we are! Check out (aboutus)!
 
 ![A pink axolotl in a tank](https://alicemcgrath.digital.brynmawr.edu/simple-site/images/janeway.jpg)
