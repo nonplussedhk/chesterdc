@@ -6,3 +6,5 @@ We collect stories about Chester, PA by residents of Chester, PA
 - tell us how we are doing
 - 1. We are amazing
   2. You are amazing
+
+![A pink axolotl in a tank](https://alicemcgrath.digital.brynmawr.edu/simple-site/images/janeway.jpg)
