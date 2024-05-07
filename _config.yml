@@ -1,0 +1,6 @@
+title: Chester City Digital Collection May 2024
+description: A brief overview of what we are up to. 
+
+remote_theme: pages-themes/cayman@v0.2.0 # Establishes a theme
+plugins:
+- jekyll-remote-theme
